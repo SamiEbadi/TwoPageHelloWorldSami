@@ -1,3 +1,4 @@
+// Change 1
 package com.example.lenovo.twopagehelloworld;
 
 import android.support.v7.app.ActionBarActivity;
